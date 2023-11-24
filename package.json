@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "node-resolution",
+  "version": "0.0.0-DEVELOPMENT",
+  "license": "ISC",
+  "scripts": {
+    "prepare": "tsc"
+  },
+  "dependencies": {
+    "typescript": "5.3.2",
+    "unknown": "0.2.5"
+  }
+}
